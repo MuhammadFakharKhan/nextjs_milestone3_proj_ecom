@@ -7,7 +7,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useCartStore, CartState } from '@/app/store/cartStore';
 import { useParams } from 'next/navigation';
-import { useRouter } from 'next/navigation'; 
+
 
 
 interface AdditionalInfoSection {
